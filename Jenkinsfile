@@ -57,6 +57,7 @@ pipeline {
             // Opcional: eliminar redes y volúmenes huérfanos
             // sh 'docker network prune -f'
             // sh 'docker volume prune -f'
+            // hola
         }
     }
         
